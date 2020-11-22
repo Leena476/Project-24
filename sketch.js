@@ -40,8 +40,6 @@ function draw() {
   dustbin3.display();
   dustbin2.display();
   
-  //even when I didn't call keyPressed function, the up arrow worked
-  keyPressed();
   drawSprites();
  
 }
