@@ -26,11 +26,10 @@ class Paper{
         rotate (angle);
         
         fill ("red");
+        
         ellipseMode(CENTER);
         ellipse(0,0,this.radius);
 
         pop ();
     }
-
-
 }
