@@ -40,6 +40,7 @@ function draw() {
   dustbin3.display();
   dustbin2.display();
   
+  keyPressed();
   drawSprites();
  
 }
